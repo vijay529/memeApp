@@ -12,7 +12,7 @@ const App = () => {
       <div className="app">
         <Navbar />
         <Routes>
-          <Route path={`/meme-app.git`} element={<Home />} />
+          <Route path={`/memeApp/`} element={<Home />} />
           <Route path={`/`} element={<Home />} />
           <Route path='/meme/:memeId' element={<Content />} />
         </Routes>
