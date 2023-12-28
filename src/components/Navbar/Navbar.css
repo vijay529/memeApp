@@ -207,6 +207,24 @@
     background: #0f0f0fb4 !important;
 }
 
+@media only screen and (max-width:400px){
+    .nav_filter{
+        width: 25px !important;
+        height: 25px;
+    }
+    .nav_filter li{
+        width: 20px;
+        height: 1px;
+        margin-top: 3px;
+    }
+    .nav_right{
+        width: 10%;
+    }
+    .nav_mid{
+        width: 60%;
+    }
+}
+
 @media only screen and (min-width:992px) {
     .nav_search button img{
         width: 20px;
