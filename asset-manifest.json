@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memeApp/static/css/main.8f51b1f0.css",
+    "main.css": "/memeApp/static/css/main.7ae15bd0.css",
     "main.js": "/memeApp/static/js/main.541ece99.js",
     "reactPlayerYouTube.js": "/memeApp/static/js/reactPlayerYouTube.c49b26f5.chunk.js",
     "reactPlayerSoundCloud.js": "/memeApp/static/js/reactPlayerSoundCloud.c1a9c035.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/download-svgrepo-com.svg": "/memeApp/static/media/download-svgrepo-com.4a11b21d226a51809bb1405c934b4ed9.svg",
     "static/media/play-button-svgrepo-com.svg": "/memeApp/static/media/play-button-svgrepo-com.cf40cbd6730dde9ab0fce398eb19a2cf.svg",
     "index.html": "/memeApp/index.html",
-    "main.8f51b1f0.css.map": "/memeApp/static/css/main.8f51b1f0.css.map",
+    "main.7ae15bd0.css.map": "/memeApp/static/css/main.7ae15bd0.css.map",
     "main.541ece99.js.map": "/memeApp/static/js/main.541ece99.js.map",
     "reactPlayerYouTube.c49b26f5.chunk.js.map": "/memeApp/static/js/reactPlayerYouTube.c49b26f5.chunk.js.map",
     "reactPlayerSoundCloud.c1a9c035.chunk.js.map": "/memeApp/static/js/reactPlayerSoundCloud.c1a9c035.chunk.js.map",
@@ -39,7 +39,7 @@
     "787.d5fa4d18.chunk.js.map": "/memeApp/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f51b1f0.css",
+    "static/css/main.7ae15bd0.css",
     "static/js/main.541ece99.js"
   ]
 }
